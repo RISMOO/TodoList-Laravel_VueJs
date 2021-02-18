@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500&display=swap');
+
+
+h1
+{
+    font-family: 'Ranchers', cursive;
+
+
+}
+
+
+p
+{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+body
+
+
+{
+
+   background-image:url("/img/alb.jpg") ;
+
+}
+.bt1
+
+{
+background-color:#1d68a7;
+
+}
+
+
+.bt2
+
+{
+background-color:#7a0404;
+border: none;
+
+}
+
+
+.blue
+
+
+{
+ background-color: #0694fe;
+ border:none;
+
+}
